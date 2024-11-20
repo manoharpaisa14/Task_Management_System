@@ -3,7 +3,7 @@ Follow these steps to set up and run the application:
 
 1. Clone the Repository
 Clone the project repository to your local machine using Git:
-run the command: git clone https://github.com/manoharpaisa14/operations-tm.git
+run the command: git clone https://github.com/manoharpaisa14/Task_Management_System.git
 2. Build the Application
 Navigate into the project directory:
 command:cd operations-tm
