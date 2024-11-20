@@ -6,7 +6,7 @@ Clone the project repository to your local machine using Git:
 run the command: git clone https://github.com/manoharpaisa14/Task_Management_System.git
 2. Build the Application
 Navigate into the project directory:
-command:cd operations-tm
+command:cd Task_Management_System
 Build the application using Maven:
 command:mvn clean install
 3. Run the Application
